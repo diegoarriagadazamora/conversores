@@ -1,0 +1,6 @@
+conversorMonedas\function.class
+conversorTemperatura\functionTemperatura.class
+conversores\conversor\Principal.class
+conversorMonedas\ConvertirMonedas.class
+conversorMonedas\ConvertirMonedasACLP.class
+conversorTemperatura\ConvertirTemperatura.class
